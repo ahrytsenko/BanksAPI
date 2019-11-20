@@ -9,3 +9,11 @@ https://api.monobank.ua/docs/
 
 3. Privatbank's API
 https://api.privatbank.ua/
+
+Other links
+http://bank-ua.com/export/exchange_rate_cash.json
+https://minfin.com.ua/company/kredobank/
+https://dou.ua/lenta/articles/dou-projector-smartdelivery/
+https://hryvna.today/
+https://dou.ua/lenta/articles/dou-projector-hryvna-today/
+https://dou.ua/forums/topic/17511/
